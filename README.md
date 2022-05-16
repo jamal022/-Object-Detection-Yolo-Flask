@@ -1,4 +1,4 @@
-##Object Detection with Yolo algorithm  and deployed with Flask
+## Object Detection with Yolo algorithm  and deployed with Flask
 
  
 
